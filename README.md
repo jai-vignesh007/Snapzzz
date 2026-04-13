@@ -171,6 +171,4 @@ aws ses verify-email-identity --email-address your@email.com
 
 ---
 
-## 👨‍💻 Built By
 
-Jai Vignesh — Built at a Hackathon in 6 hours 🚀
